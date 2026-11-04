@@ -1,8 +1,8 @@
-<h1>mening ismim Feruz</h1>
+<h1>Birinchi loyiham</h1>
 <hr>
-<h2>men 12 yoshdaman</h2>
+<h2>mening ismim Feruz</h2>
 <hr>
-<h3>qiziqishlarim:Dasturchilik va o'yinlar</h3>
+<h3>12 yoshdaman</h3>
 <hr>
 <h4>Yaqinda olimpiada o'tkaziladi.Musobaqaga qatnashish uchun 2014 kodini tering</h4>
 <hr>
